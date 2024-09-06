@@ -33,5 +33,5 @@ The following Python notebooks are provided in the order to run:
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT license. See the LICENSE.txt file for details.
 
