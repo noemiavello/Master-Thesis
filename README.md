@@ -1,6 +1,7 @@
 # Master Thesis: "Using Shapley Values for Assessing Feature Importance in Insurance Prediction Models"
 
-This project involves the data set and application codes for the master thesis in International Business and Economics. The key components include:
+This project involves the data set and application codes for the Master's thesis in the Master's degree program International Business 
+and Economics in the University of Hohenheim. The key components include:
 
 * **Data Set**: The dataset used for this project.
 * **Data Manipulations**: Relevant data manipulations.
